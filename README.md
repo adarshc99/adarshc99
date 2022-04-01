@@ -11,3 +11,4 @@ JQuery
 AJAX
 MYSQL
 REST API
+and Still learning
