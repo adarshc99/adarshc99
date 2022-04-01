@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @adarshc99
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Adarsh Singh Chuauhan
+- 👀 I’m interested in WebDev 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-My current stack is 
 
-<!---
-adarshc99/adarshc99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HTML,CSS,JAVASCRIPT,JQuery,AJAX,MYSQL,REST API
